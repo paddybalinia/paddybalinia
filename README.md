@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Frontend Developer with over 10 years of experience. I consider myself an organized and responsible person, and I enjoy working in teams to achieve ambitious results.
+
+I had the privilege of being part of highly talented development teams, focused on creating products for digital media. These experiences have provided me with a unique perspective and a deep understanding of the challenges and opportunities in the world of Frontend development.
+
+Currently, I am actively seeking new job opportunities as a Frontend Developer. I am excited about the possibility of joining a dynamic and collaborative team where I can apply my skills and technical knowledge to drive the success of innovative projects.
+
 <!--
 **paddybalinia/paddybalinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
