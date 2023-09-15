@@ -20,6 +20,10 @@ Currently, I am actively seeking new job opportunities as a Frontend Developer. 
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                     alt="javascript" width="30" height="30" /> </a>
             &nbsp;
+           <a href="https://getbem.com/" target="_blank" rel="noreferrer" title="Bem"> <img
+                    src="https://profilinator.rishav.dev/skills-assets/bem.svg"
+                    alt="Bem" width="30" height="30" /> </a>
+            &nbsp;
             <a href="https://jquery.com/" target="_blank" rel="noreferrer" title="jQuery"> <img
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
                     alt="jQuery" width="30" height="30" /> </a>
