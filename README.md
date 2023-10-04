@@ -1,6 +1,6 @@
-<h2 >Hi 👋, I'm Paddy</h2>
+## Hi 👋, I'm Paddy
 
-<h3 >A passionate Frontend Developer from Argentina</h3>
+#### A passionate Frontend Developer from Argentina
 
 
 With over 10 years of experience. I consider myself an organized and responsible person, and I enjoy working in teams to achieve ambitious results.
