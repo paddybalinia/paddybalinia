@@ -44,7 +44,7 @@ Currently, I am actively seeking new job opportunities as a Frontend Developer. 
                 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30"
                     height="30" /> </a>
             &nbsp;<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="XD" > <img
-                    src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30" /> </a>
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="xd" width="30" height="30" /> </a>
          &nbsp;
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
          &nbsp;<a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-original.svg" width="30" height="30" /></a>
