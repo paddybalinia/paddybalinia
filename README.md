@@ -54,7 +54,7 @@ Currently, I am actively seeking new job opportunities as a Frontend Developer. 
 
 <h4 >Connect with me:</h4>
 <p >
-<a href="https://linkedin.com/in/patriciobalina" target="blank" title="Linkedin"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patriciobalina" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/patriciobalina-frontend-developer" target="blank" title="Linkedin"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patriciobalina" height="20" width="20" /></a>
 &nbsp;
 <a href="https://fb.com/paddybalinia" target="blank" title="Facebook"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paddybalinia" height="20" width="20" /></a>
 &nbsp;
