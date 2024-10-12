@@ -50,6 +50,8 @@ Currently, I am actively seeking new job opportunities as a Frontend Developer. 
          &nbsp;<a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-original.svg" width="30" height="30" /></a>
          &nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Sisual Studio Code"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" width="30" height="30" /></a>
          &nbsp;<a href="https://gulpjs.com/" target="_blank" rel="noreferrer" title="GulpJS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="GulpJS" width="30" height="30" /></a>
+         <a href="https://astro.build/" target="_blank" rel="noreferrer" title="Astro"><img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
+          </a>
         </p>
 
 <h4 >Connect with me:</h4>
@@ -64,6 +66,8 @@ Currently, I am actively seeking new job opportunities as a Frontend Developer. 
 <br> 📫 How to reach me **paddybalinia@gmail.com**
 
 
+
+###
 
 <!--
 **paddybalinia/paddybalinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
