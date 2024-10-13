@@ -34,9 +34,7 @@ Currently, I am actively seeking new job opportunities as a Frontend Developer. 
             &nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Illustrator"> <img
                     src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
                     alt="illustrator" width="30" height="30" /> </a>
-            &nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="Photoshop"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                    alt="photoshop" width="30" height="30" /> </a>
+            &nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="Photoshop"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  /></a>
             &nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img
                     src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /></a>
            &nbsp;
