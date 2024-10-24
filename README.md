@@ -12,13 +12,15 @@ Currently, I am actively seeking new job opportunities as a Frontend Developer. 
         <p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                     alt="css3" width="30" height="30" /> </a>
-            &nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML"> <img
+            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                     alt="html5" width="30" height="30" /> </a>
             &nbsp;
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                     alt="javascript" width="30" height="30" /> </a>
+              &nbsp;
+              <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> 
             &nbsp;
            <a href="https://getbem.com/" target="_blank" rel="noreferrer" title="Bem"> <img
                     src="https://profilinator.rishav.dev/skills-assets/bem.svg"
@@ -31,7 +33,7 @@ Currently, I am actively seeking new job opportunities as a Frontend Developer. 
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="ReactJS"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                     alt="react" width="30" height="30" /> </a>
-            &nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Illustrator"> <img
+            <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Illustrator"> <img
                     src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
                     alt="illustrator" width="30" height="30" /> </a>
             &nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="Photoshop"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  /></a>
@@ -41,7 +43,7 @@ Currently, I am actively seeking new job opportunities as a Frontend Developer. 
             <a href="https://www.sketch.com/" target="_blank" rel="noreferrer" title="Sketch">
                 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30"
                     height="30" /> </a>
-            &nbsp;<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="XD" > <img
+            <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="XD" > <img
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="xd" width="30" height="30" /> </a>
          &nbsp;
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
@@ -50,6 +52,7 @@ Currently, I am actively seeking new job opportunities as a Frontend Developer. 
          &nbsp;<a href="https://gulpjs.com/" target="_blank" rel="noreferrer" title="GulpJS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="GulpJS" width="30" height="30" /></a>
          <a href="https://astro.build/" target="_blank" rel="noreferrer" title="Astro"><img src="https://cdn.simpleicons.org/astro/FF5D01" height="27" alt="astro logo"  />
           </a>
+     
         </p>
 
 <h4 >Connect with me:</h4>
