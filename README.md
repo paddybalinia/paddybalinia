@@ -51,9 +51,7 @@ Currently, I am actively seeking new job opportunities as a Frontend Developer. 
          &nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Sisual Studio Code"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" width="30" height="30" /></a>
          &nbsp;<a href="https://gulpjs.com/" target="_blank" rel="noreferrer" title="GulpJS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="GulpJS" width="30" height="30" /></a>
          <a href="https://astro.build/" target="_blank" rel="noreferrer" title="Astro"><img src="https://cdn.simpleicons.org/astro/FF5D01" height="27" alt="astro logo"  />
-          </a>
-     
-        </p>
+          </a></p>
 
 <h4 >Connect with me:</h4>
 <p >
